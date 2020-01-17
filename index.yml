@@ -1,0 +1,26 @@
+meta:
+  title: 'Lift Every Voice and Sing: The Quilts of Gwendolyn Ann Magee'
+  language: en
+  rights: 'This text is licensed under a CC BY-NC-ND 4.0 license.'
+  description: 'The exhibition, Lift Every Voice and Sing: The Quilts of Gwendolyn Ann Magee, includes examples of the artist s work created concurrently with the title series (2001–2011) that illustrate the strengths of her approach. Although Magee s first ventures into quilting had expressed affirmative emotions toward domestic life, she understood the toughness of the subjects she chose to address as her narrative direction developed, and did not flinch from the use of powerful imagery. "I am fully aware," she blogged in 2009, "that the dissonance is palpable between this medium through which my art finds expression and the subject matter that it articulates. I know that the quilt form usually is associated with feelings of warmth, comfort, serenity and security and that my subject matter often is harsh, intense, somber and frequently brutal. However, viewers of the art frequently convey to me that they find the work to be compelling, evocative, meaningful and riveting."'
+  creators:
+    - name: 'Dorothy Moye'
+  contributors:
+    - name: 'Dorothy Moye'
+    - name: 'Emory Center for Digital Scholarship'
+toc:
+  - label: 'Overview'
+    source_path: 01.html
+    start_section: truez
+  - label: 'Introduction'
+    source_path: 02.html
+  - label: 'Lift Every Voice and Sing: The Quilts of Gwendolyn Ann Magee'
+    source_path: 03.html
+  - label: 'Verse Two: Stony the Road We Trod'
+    source_path: 04.html
+  - label: 'Verse Three: God of Our Weary Years'
+    source_path: 05.html
+  - label: 'Recommended Resources'
+    source_path: 06.html
+  - label: 'Notes'
+    source_path: 07.html
